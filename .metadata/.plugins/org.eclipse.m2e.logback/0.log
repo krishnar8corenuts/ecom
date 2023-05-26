@@ -1,0 +1,837 @@
+2023-05-25 09:49:29,373 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-25 09:50:08,177 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.feuji:ecom-entity:0.0.1-SNAPSHOT @ C:\ecom\ecom\ecom.entity\pom.xml.
+2023-05-25 09:50:08,582 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_admin:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_admin\pom.xml.
+2023-05-25 09:50:08,811 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:08,916 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 09:50:08,941 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:09,036 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_seller:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_seller\pom.xml.
+2023-05-25 09:50:09,058 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:09,143 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 09:50:09,163 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:10,817 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/main/java
+2023-05-25 09:50:10,828 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/test/java
+2023-05-25 09:50:12,465 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/main/java
+2023-05-25 09:50:12,466 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 09:50:12,488 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 09:50:12,509 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/test/java
+2023-05-25 09:50:13,058 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/main/java
+2023-05-25 09:50:13,058 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 09:50:13,338 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 09:50:13,368 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/test/java
+2023-05-25 09:50:14,001 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 09:50:14,002 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 09:50:14,006 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 09:50:14,013 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 09:50:14,490 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 09:50:14,490 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 09:50:14,495 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 09:50:14,495 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 09:50:15,193 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 10 sec
+2023-05-25 09:50:16,782 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 09:50:17,575 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_admin:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_admin\pom.xml.
+2023-05-25 09:50:17,831 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:18,038 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 09:50:18,065 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:18,804 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/main/java
+2023-05-25 09:50:18,805 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 09:50:18,805 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 09:50:18,806 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/test/java
+2023-05-25 09:50:19,534 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 09:50:19,535 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 09:50:19,536 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 09:50:19,536 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 09:50:20,520 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-05-25 09:50:20,555 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 09:50:21,198 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 09:50:21,430 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:21,702 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_seller:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_seller\pom.xml.
+2023-05-25 09:50:21,727 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:50:22,604 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 09:50:22,604 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 09:50:22,605 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 09:50:22,605 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 09:50:23,201 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/main/java
+2023-05-25 09:50:23,201 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 09:50:23,202 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 09:50:23,203 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/test/java
+2023-05-25 09:50:24,310 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-05-25 09:50:25,608 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 09:50:25,609 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 09:50:25,614 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 09:50:27,784 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:27,824 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:27,832 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 09:50:29,236 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:29,275 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 09:50:29,306 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 09:50:31,807 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:31,933 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:31,946 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:50:33,626 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:50:33,680 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:50:33,710 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:53:37,469 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-25 09:54:03,193 [Worker-4: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:55:08,716 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:55:08,786 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:55:08,801 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:55:13,483 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:55:13,495 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:55:13,499 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:55:23,138 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:55:23,142 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:55:23,146 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:55:43,461 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:55:43,476 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:55:43,481 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:55:56,774 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:55:56,779 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:55:56,782 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 09:56:59,524 [Worker-3: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 09:57:18,585 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:57:18,603 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:57:18,608 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:57:39,622 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:57:39,629 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:57:39,633 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:57:53,641 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:57:53,646 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:57:53,650 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:58:30,735 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:58:30,746 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:58:30,752 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:58:52,433 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:58:52,459 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:58:52,464 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:59:02,711 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:59:02,716 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:59:02,719 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:59:32,216 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:59:32,221 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:59:32,225 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 09:59:56,338 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 09:59:56,342 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 09:59:56,346 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:00:12,286 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:00:12,290 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:00:12,293 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:00:18,765 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:00:18,769 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:00:18,771 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:01:47,340 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:01:47,345 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:01:47,349 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:03:03,418 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:03:03,440 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:03:03,444 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:03:18,240 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:03:18,245 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:03:18,249 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:03:38,221 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:03:38,226 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:03:38,229 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:03:46,769 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:03:46,774 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:03:46,778 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:04:06,071 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:04:06,076 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:04:06,080 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:04:34,425 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:04:34,430 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:04:34,435 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:05:06,614 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:05:06,618 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:05:06,621 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:05:24,858 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:05:24,862 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:05:24,865 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:05:34,318 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:05:34,323 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:05:34,325 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:06:23,712 [Worker-0: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:06:55,096 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:06:55,159 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:06:55,163 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:07:20,560 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:07:20,565 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:07:20,569 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:07:35,248 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:07:35,254 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:07:35,258 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:07:44,063 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:07:44,069 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:07:44,075 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:07:57,673 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:07:57,677 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:07:57,681 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:10:11,794 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:10:11,799 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:10:11,803 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:10:25,313 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:10:25,318 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:10:25,322 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:10:45,148 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:10:45,153 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:10:45,158 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:10:55,535 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:10:55,540 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:10:55,544 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:11:03,408 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:11:03,414 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:11:03,418 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:11:22,145 [Worker-12: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:11:41,896 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:11:41,906 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:11:41,910 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:12:01,216 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:12:01,252 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:12:01,258 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:14:04,252 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:14:04,257 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:14:04,261 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:14:25,944 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:14:25,949 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:14:25,952 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:14:40,800 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:14:40,804 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:14:40,807 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:15:29,859 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:29,859 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:29,863 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:15:35,277 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:35,277 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:35,282 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:15:42,569 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:42,570 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:15:42,572 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:16:00,956 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:00,956 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:00,963 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:16:08,406 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:08,406 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:08,408 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:16:20,400 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:20,400 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:20,403 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:16:38,941 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:38,941 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:38,944 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:16:59,992 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:59,993 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:16:59,997 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:17:15,009 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:17:15,009 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:17:15,012 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:17:46,597 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 10:17:47,642 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_admin:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_admin\pom.xml.
+2023-05-25 10:17:47,880 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:17:47,942 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 10:17:47,960 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:17:48,028 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_seller:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_seller\pom.xml.
+2023-05-25 10:17:48,045 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:17:48,113 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 10:17:48,132 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:17:48,193 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.feuji:ecom-entity:0.0.1-SNAPSHOT @ C:\ecom\ecom\ecom.entity\pom.xml.
+2023-05-25 10:17:49,616 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/main/java
+2023-05-25 10:17:49,617 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 10:17:49,617 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_admin/src/main/resources
+2023-05-25 10:17:49,618 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_admin/src/test/java
+2023-05-25 10:17:50,247 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 10:17:50,248 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:17:50,248 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:17:50,248 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 10:17:50,672 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/main/java
+2023-05-25 10:17:50,673 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 10:17:50,673 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_seller/src/main/resources
+2023-05-25 10:17:50,673 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_seller/src/test/java
+2023-05-25 10:17:51,040 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 10:17:51,040 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 10:17:51,041 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 10:17:51,041 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 10:17:51,404 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/main/java
+2023-05-25 10:17:51,404 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/test/java
+2023-05-25 10:17:52,658 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 5 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 2.00 sec 
+2023-05-25 10:17:53,055 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:17:53,056 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:17:53,059 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:17:53,468 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:17:53,485 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:17:53,489 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 10:17:53,736 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:17:53,753 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 10:17:53,766 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 10:17:53,957 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:17:53,969 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:17:53,973 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:17:54,332 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:17:54,415 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:17:54,421 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_admin\src\test\resources
+2023-05-25 10:17:58,198 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2023-05-25 10:17:58,203 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-25 10:17:58,204 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-25 10:17:58,204 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-25 10:17:58,204 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-25 10:17:58,205 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-25 10:17:58,205 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-25 10:17:58,205 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-25 10:17:58,205 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-25 10:17:58,205 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-25 10:17:58,206 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-25 10:17:58,207 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-25 10:17:58,207 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-25 10:17:58,207 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-25 10:17:58,208 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-25 10:17:58,209 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-25 10:17:58,212 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-05-25 10:17:58,213 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-25 10:17:58,213 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2023-05-25 10:17:58,215 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-05-25 10:17:58,215 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-05-25 10:17:58,218 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-25 10:17:58,218 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-05-25 10:17:58,220 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-25 10:17:58,220 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-05-25 10:17:58,222 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-25 10:17:58,222 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-05-25 10:17:58,224 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-25 10:17:58,227 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\ecom.entity":
+2023-05-25 10:17:58,231 [Worker-10: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 10:18:49,567 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:18:49,567 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:18:49,570 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:18:54,806 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:18:54,806 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:18:54,809 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:19:06,679 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 10:19:06,859 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.feuji:ecom-entity:0.0.1-SNAPSHOT @ C:\ecom\ecom\ecom.entity\pom.xml.
+2023-05-25 10:19:07,131 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/main/java
+2023-05-25 10:19:07,131 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecom.entity/src/test/java
+2023-05-25 10:19:07,493 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 10:19:07,827 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:19:07,827 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\main\resources
+2023-05-25 10:19:07,830 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\ecom.entity\src\test\resources
+2023-05-25 10:19:18,741 [Worker-29: Launching Executing clean in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\ecom.entity":
+2023-05-25 10:19:18,741 [Worker-29: Launching Executing clean in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-05-25 10:19:26,122 [Worker-29: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\ecom.entity":
+2023-05-25 10:19:26,123 [Worker-29: Launching Executing install in C__ecom_ecom_ecom.entity] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 10:48:19,664 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 10:48:19,879 [Worker-33: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:48:20,264 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:48:20,265 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:48:20,269 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:48:21,496 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/3.0.5/spring-boot-starter-mail-3.0.5-sources.jar
+2023-05-25 10:48:21,579 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/3.0.5/spring-boot-starter-mail-3.0.5-sources.jar
+2023-05-25 10:48:21,584 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:3.0.5
+2023-05-25 10:48:21,765 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/6.0.7/spring-context-support-6.0.7-sources.jar
+2023-05-25 10:48:21,930 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/6.0.7/spring-context-support-6.0.7-sources.jar
+2023-05-25 10:48:21,934 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:6.0.7
+2023-05-25 10:48:22,077 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/angus/jakarta.mail/1.0.0/jakarta.mail-1.0.0-sources.jar
+2023-05-25 10:48:22,461 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/angus/jakarta.mail/1.0.0/jakarta.mail-1.0.0-sources.jar
+2023-05-25 10:48:22,463 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.angus:jakarta.mail:1.0.0
+2023-05-25 10:48:45,959 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 10:48:46,166 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 10:48:46,326 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:48:46,758 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 10:48:46,758 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:48:46,758 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:48:46,758 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 10:48:47,233 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 10:48:47,515 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:48:47,527 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:48:47,530 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:49:11,451 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:49:11,455 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:49:11,458 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:50:43,243 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:50:43,279 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:50:43,282 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:53:48,897 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:53:48,902 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:53:48,905 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:55:32,454 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:55:32,461 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:55:32,463 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:55:40,156 [Worker-39: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 10:55:40,158 [Worker-39: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 10:56:24,941 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 10:56:25,125 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 10:56:25,248 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 10:56:25,493 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 10:56:25,493 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:56:25,493 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 10:56:25,493 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 10:56:25,903 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 10:56:26,243 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:56:26,256 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:56:26,260 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:56:46,747 [Worker-37: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 10:56:46,856 [Worker-37: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 10:56:46,974 [Worker-37: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 10:59:00,335 [Worker-35: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 10:59:00,336 [Worker-35: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 10:59:21,482 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 10:59:21,488 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 10:59:21,490 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 10:59:23,036 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 10:59:23,163 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 10:59:23,332 [Worker-34: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:14:05,081 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:14:05,129 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:14:05,132 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:19:33,483 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:19:33,493 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:19:33,496 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 11:23:05,251 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:23:05,256 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:23:05,259 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:23:07,505 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:23:07,509 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:23:07,512 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 11:24:49,498 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:24:49,506 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:24:49,509 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:25:49,271 [Worker-49: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_user":
+2023-05-25 11:25:49,273 [Worker-49: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 11:26:05,032 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:26:05,037 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:26:05,040 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 11:26:09,163 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:26:09,285 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:26:09,407 [Worker-45: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:26:58,621 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:26:58,630 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:26:58,634 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:47:53,126 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:47:53,247 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:47:53,385 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:56:15,151 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:56:15,169 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:56:15,173 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:56:56,708 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:56:56,721 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:56:56,726 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:57:25,048 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:57:25,088 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:57:25,091 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 11:57:39,810 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 11:57:41,015 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 11:57:42,671 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 11:57:42,941 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 11:57:42,941 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 11:57:42,941 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 11:57:42,941 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 11:57:43,387 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2023-05-25 11:57:43,911 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:57:43,926 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:57:43,932 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 11:57:50,754 [Worker-52: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 11:57:50,754 [Worker-52: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 11:58:18,726 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:58:18,859 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:58:19,001 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:58:35,305 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 11:58:35,487 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 11:58:35,705 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 11:58:36,058 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 11:58:36,058 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 11:58:36,059 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 11:58:36,059 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 11:58:36,476 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 11:58:36,762 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 11:58:36,779 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 11:58:36,781 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 11:58:42,092 [Worker-54: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_user":
+2023-05-25 11:58:42,092 [Worker-54: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 11:59:21,817 [Worker-52: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:59:21,951 [Worker-52: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 11:59:22,129 [Worker-52: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:00:43,871 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:00:44,101 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 12:00:44,352 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:00:44,638 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 12:00:44,638 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 12:00:44,639 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 12:00:44,639 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 12:00:45,127 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:00:45,490 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:00:45,512 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:00:45,518 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 12:01:03,476 [Worker-63: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_user":
+2023-05-25 12:01:03,477 [Worker-63: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:01:20,459 [Worker-59: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:01:20,589 [Worker-59: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:01:20,708 [Worker-59: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:02:20,256 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:02:20,484 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:02:20,680 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:02:20,915 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 12:02:20,915 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:02:20,916 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:02:20,916 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 12:02:21,289 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:02:21,577 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:02:21,590 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:02:21,594 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:02:24,811 [Worker-65: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 12:02:24,811 [Worker-65: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:02:37,488 [Worker-59: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:02:37,628 [Worker-59: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:02:37,742 [Worker-59: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:03:54,145 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:03:54,152 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:03:54,155 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:06:01,470 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:06:01,475 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:06:01,477 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:06:12,985 [Worker-54: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:06:13,134 [Worker-54: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:06:13,253 [Worker-54: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:06:49,708 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:06:49,909 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:06:50,146 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:06:50,381 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 12:06:50,381 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:06:50,381 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:06:50,382 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 12:06:50,847 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:06:51,170 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:06:51,182 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:06:51,185 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:07:04,598 [Worker-65: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 12:07:04,599 [Worker-65: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:07:19,889 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:07:20,002 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:07:20,108 [Worker-52: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:08:23,780 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:08:23,797 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:08:23,800 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:10:26,662 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:10:26,669 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:10:26,672 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:10:50,554 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:10:50,722 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:10:50,835 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:10:51,079 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 12:10:51,080 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:10:51,080 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:10:51,080 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 12:10:51,464 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:10:51,776 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:10:51,787 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:10:51,791 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:10:59,154 [Worker-58: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 12:10:59,155 [Worker-58: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:11:21,832 [Worker-58: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:11:21,941 [Worker-58: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:11:22,049 [Worker-58: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:13:12,027 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:13:12,032 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:13:12,035 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:13:50,276 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:13:50,281 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:13:50,283 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:15:31,883 [Worker-58: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 12:15:31,884 [Worker-58: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:15:49,683 [Worker-61: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:15:49,833 [Worker-61: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:15:49,978 [Worker-61: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:16:01,393 [Worker-61: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_user":
+2023-05-25 12:16:01,393 [Worker-61: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:16:18,195 [Worker-61: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:16:18,376 [Worker-61: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:16:18,539 [Worker-61: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:18:21,810 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:18:21,816 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:18:21,819 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:27:00,631 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:27:00,659 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:27:00,662 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:27:29,126 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:27:29,152 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:27:29,155 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 12:27:47,161 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:27:47,431 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Spring:e_commerce_user:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_user\pom.xml.
+2023-05-25 12:27:47,671 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:27:47,956 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/main/java
+2023-05-25 12:27:47,956 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 12:27:47,957 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_user/src/main/resources
+2023-05-25 12:27:47,957 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_user/src/test/java
+2023-05-25 12:27:48,563 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:27:48,859 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:27:48,876 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:27:48,879 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_user\src\test\resources
+2023-05-25 12:27:52,697 [Worker-75: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_user":
+2023-05-25 12:27:52,698 [Worker-75: Launching Executing install in C__ecom_ecom_e_commerce_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:28:09,563 [Worker-72: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:28:09,705 [Worker-72: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:28:09,829 [Worker-72: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:28:27,930 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 12:28:28,100 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:28:28,228 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:28:28,464 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/main/java
+2023-05-25 12:28:28,464 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:28:28,465 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /e_commerce_orders/src/main/resources
+2023-05-25 12:28:28,465 [Worker-74: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /e_commerce_orders/src/test/java
+2023-05-25 12:28:28,806 [Worker-74: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-25 12:28:29,240 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:28:29,255 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:28:29,261 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:28:36,236 [Worker-71: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 12:28:36,236 [Worker-71: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 12:28:48,715 [Worker-76: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:28:48,831 [Worker-76: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:28:48,952 [Worker-76: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 12:33:10,981 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:33:10,997 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:33:11,001 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:34:35,737 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:34:35,747 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:34:35,750 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:37:21,062 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:37:21,084 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 12:37:21,088 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 12:37:54,229 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:37:54,235 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 12:37:54,238 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 12:38:08,133 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:38:08,140 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 12:38:08,143 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 12:43:00,834 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-25 12:50:14,896 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:50:24,695 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:50:24,726 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 12:50:24,739 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 12:50:27,151 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:50:28,293 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:50:28,299 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-25 12:50:28,305 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-25 12:53:14,214 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:53:14,229 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:53:14,234 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:56:22,928 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:56:23,197 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:56:23,844 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:56:23,882 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:56:23,897 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:56:35,488 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:56:35,734 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:56:36,080 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:56:36,082 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:56:36,087 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:56:42,182 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:e_commerce_orders:0.0.1-SNAPSHOT @ C:\ecom\ecom\e_commerce_orders\pom.xml.
+2023-05-25 12:56:42,384 [Worker-32: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 12:56:42,695 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:56:42,696 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:56:42,700 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:59:13,293 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:59:13,385 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:59:13,390 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 12:59:46,511 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 12:59:46,526 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 12:59:46,530 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:00:39,017 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:00:39,044 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:00:39,047 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:00:49,735 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2023-05-25 13:00:49,751 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-25 13:00:49,751 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-25 13:00:49,751 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-25 13:00:49,751 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-25 13:00:49,752 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-25 13:00:49,753 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-25 13:00:49,754 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-25 13:00:49,755 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-25 13:00:49,756 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-05-25 13:00:49,758 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-25 13:00:49,758 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2023-05-25 13:00:49,759 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-05-25 13:00:49,759 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-05-25 13:00:49,760 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-25 13:00:49,760 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-05-25 13:00:49,762 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-25 13:00:49,762 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-05-25 13:00:49,764 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-25 13:00:49,764 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-05-25 13:00:49,766 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-25 13:00:49,769 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 13:00:49,776 [Worker-37: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 13:01:03,729 [Worker-33: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:01:03,852 [Worker-33: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:01:03,970 [Worker-33: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:01:09,107 [Worker-31: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-25 13:01:14,934 [Worker-33: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:01:15,086 [Worker-33: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:01:15,234 [Worker-33: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:04:07,463 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:04:07,534 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:04:07,537 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:09:57,909 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:09:57,929 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:09:57,934 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:10:09,827 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:10:09,950 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:10:09,953 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:10:12,544 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:10:12,569 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:10:12,580 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:10:16,233 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:10:16,255 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:10:16,258 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:10:24,073 [Worker-36: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-25 13:10:24,074 [Worker-36: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-25 13:10:36,241 [Worker-42: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:10:36,357 [Worker-42: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:10:36,482 [Worker-42: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:10:51,794 [Worker-42: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:10:51,933 [Worker-42: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:10:52,103 [Worker-42: Launching e_commerce_user - ECommerceUserApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-25 13:12:51,051 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:12:51,154 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:12:51,162 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:14:43,935 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:14:44,042 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:14:44,046 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:15:57,885 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:15:58,002 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:15:58,006 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:19:51,238 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:19:51,275 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:19:51,281 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:19:55,834 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:19:55,875 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:19:55,880 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:58:34,119 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:58:34,163 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:58:34,167 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:59:35,552 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:59:35,594 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:59:35,601 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-25 13:59:38,893 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-25 13:59:38,949 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-25 13:59:38,952 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-26 09:19:37,847 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-26 09:19:54,853 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-26 09:19:56,003 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-26 09:19:56,497 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 09:19:56,524 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-26 09:19:56,536 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources
+2023-05-26 09:19:59,670 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-26 09:19:59,780 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 09:19:59,799 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-05-26 09:19:59,804 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_orders\src\test\resources
+2023-05-26 09:20:00,211 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-26 09:20:00,535 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier  to /ecom.entity/target/classes
+2023-05-26 09:21:55,958 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2023-05-26 09:21:55,984 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-26 09:21:55,985 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-26 09:21:55,985 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-26 09:21:55,985 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-26 09:21:55,986 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-26 09:21:55,986 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-26 09:21:55,986 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-26 09:21:55,986 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-26 09:21:55,986 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-26 09:21:55,987 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-26 09:21:55,987 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-26 09:21:55,987 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-26 09:21:55,987 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-26 09:21:55,987 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-26 09:21:55,988 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-26 09:21:55,989 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-26 09:21:55,989 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-26 09:21:55,989 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-26 09:21:55,989 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-26 09:21:55,989 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-26 09:21:55,990 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-26 09:21:55,990 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-26 09:21:55,991 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-26 09:21:55,991 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-26 09:21:55,991 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-26 09:21:55,991 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-26 09:21:55,992 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-26 09:21:55,994 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-05-26 09:21:55,995 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-26 09:21:55,996 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2023-05-26 09:21:55,998 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-05-26 09:21:55,998 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-05-26 09:21:56,000 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-26 09:21:56,000 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-05-26 09:21:56,002 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-26 09:21:56,002 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-05-26 09:21:56,005 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-26 09:21:56,005 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-05-26 09:21:56,006 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\Downloads\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-26 09:21:56,012 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_seller":
+2023-05-26 09:21:56,018 [Worker-11: Launching Executing install in C__ecom_ecom_e_commerce_seller] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-26 09:22:29,848 [Worker-15: Launching e_commerce_seller - ECommerceSellerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:22:30,062 [Worker-15: Launching e_commerce_seller - ECommerceSellerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:22:30,272 [Worker-15: Launching e_commerce_seller - ECommerceSellerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:22:38,344 [Worker-20: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\ecom\ecom\e_commerce_orders":
+2023-05-26 09:22:38,346 [Worker-20: Launching Executing install in C__ecom_ecom_e_commerce_orders] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-26 09:22:53,904 [Worker-20: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:22:54,072 [Worker-20: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:22:54,242 [Worker-20: Launching e_commerce_orders - ECommerceOrdersApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecom.entity: com.feuji:ecom-entity:0.0.1-SNAPSHOT with classifier null to /ecom.entity/target/classes
+2023-05-26 09:51:56,667 [Worker-1882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-05-26 09:51:56,678 [Worker-1882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-05-26 09:51:56,685 [Worker-1882: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ecom\ecom\e_commerce_seller\src\test\resources

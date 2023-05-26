@@ -1,0 +1,9 @@
+
+X
+java:S1602,",Remove useless curly braces around statement(Á×˜êHÕRMINORZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'java.net.http.HttpRequest'.(ş€ŠÍşÿÿÿÿ8ó§É…1HöRMINORZ
+CODE_SMELL
+E
+java:S2119J"Save and re-use this "Random".(¼İÅfHŞRCRITICALZBUG
